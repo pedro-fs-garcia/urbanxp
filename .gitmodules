@@ -2,5 +2,5 @@
     path = uxp-frontend
     url = https://github.com/pedro-fs-garcia/uxp-frontend.git
 [submodule "uxp-backend"]
-    path = uxp-backend
-    url = https://github.com/pedro-fs-garcia/uxp-backend.git
+	path = uxp-backend
+	url = https://github.com/pedro-fs-garcia/uxp-backend.git
